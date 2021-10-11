@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @htdubs (a.k.a. Heather)!
-- 👀 I’m interested in QA & training/documentation.
+- 👀 I’m interested in improving workflows, QA, and training/documentation.
 - 🌱 I’m currently learning JavaScript and Python.
 
 <!---
